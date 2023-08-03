@@ -1,5 +1,4 @@
 # Millers-planner
-Sure! Here's a sample README file for your Work Day Scheduler project:
 
 ## Work Day Scheduler
 ![image](https://github.com/Punk1776/Millers-planner/assets/135387049/405c926e-bd17-4f25-85cd-72c8758d2001)
